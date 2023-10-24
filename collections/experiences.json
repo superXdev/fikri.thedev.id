@@ -10,14 +10,14 @@
         "dates" : "April 2020 · June 2020",
         "role" : "Full-stack Developer",
         "company" : "Pengadilan Agama Daerah",
-        "description" : "I've been working as vendor to developing a website and API to serve public. In total, I've developed about 3 different type of projects. The application and website was used for hundred to thousands users",
+        "description" : "I've been working as vendor to developing a website and API to serve public. In total, I've developed about 3 different type of projects",
         "logo" : "/assets/images/experiences/pas.png"
     },
     {
         "dates" : "January 2019 · March 2019 ",
         "role" : "Web Developer",
         "company" : "Happy Maker",
-        "description" : "In this role I was responsible to build official website for crypto company startup. While become core team we have Tens of thousands of users",
+        "description" : "In this role I was responsible to build official website for crypto company startup with nearly 15k users",
         "logo" : "/assets/images/experiences/happy.png"
     }
 ]
