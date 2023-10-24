@@ -1,0 +1,56 @@
+[
+    {
+        "name" : "Crypto Exchange Monitor",
+        "description": "A Realtime program for watching crypto price",
+        "image" : "/assets/images/projects/Software-realtime-crypto-market.png",
+        "url" : "#"
+    },
+    {
+        "name" : "Braveteknologi Site",
+        "description": "A complete profile website for IT service",
+        "image" : "/assets/images/projects/brave.png",
+        "url" : "https://braveteknologi.com/"
+    },
+    {
+        "name" : "Website Donasi Yayasan",
+        "description": "Charity webiste for Yayasan Darulirfan from Serang",
+        "image" : "/assets/images/projects/web-donasi-yayasan.png",
+        "url" : "#"
+    },
+    {
+        "name" : "Simple PAS",
+        "description": "Android application for community service in assisting with justice matters",
+        "image" : "/assets/images/projects/simpel-pas.png",
+        "url" : "https://play.google.com/store/apps/details?id=com.binderbyte.simpel&hl=id&gl=US&pli=1"
+    },
+    {
+        "name" : "Sistem Diagnosa Penyakit",
+        "description": "A web application in implementing an expert system using the Certainty Factor method",
+        "image" : "https://github.com/superXdev/Sistem-Diagnosa-Penyakit/raw/main/public/dist/img/screenshot/dashboard.png?raw=true",
+        "url" : "https://github.com/superXdev/Sistem-Diagnosa-Penyakit"
+    },
+    {
+        "name" : "Multi-chain Faucet",
+        "description": "Multi-chain faucet is a website faucet for the needs of providing testnet crypto coins by supporting multiple networks at once.",
+        "image" : "https://github.com/superXdev/multichain-faucet/raw/main/ss.png",
+        "url" : "https://github.com/superXdev/multichain-faucet"
+    },
+    {
+        "name" : "myTestimonial",
+        "description": "A simple website to present testimonials",
+        "image" : "https://github.com/superXdev/mytestimonial/raw/main/public/ss.png?raw=true",
+        "url" : "https://github.com/superXdev/mytestimonial"
+    },
+    {
+        "name" : "Enam",
+        "description": "Enam or Encrypted Password Manager is web app to organize all account from many sites",
+        "image" : "https://github.com/superXdev/enam/raw/master/public/dist/img/ss.png?raw=true",
+        "url" : "https://github.com/superXdev/enam"
+    },
+    {
+        "name" : "CNotepad",
+        "description": "Cryptographic notepad for windows with additional features.",
+        "image" : "https://github.com/superXdev/cnotepad/raw/main/CNotepad/images/1.PNG",
+        "url" : "https://github.com/superXdev/cnotepad"
+    }
+]
