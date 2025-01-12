@@ -6,6 +6,8 @@ dateFormatted: January 12, 2025
 
 ![Maas](/assets/images/posts/MaaS.png)
 
+Pernahkah Anda membayangkan bagaimana rasanya memiliki semua kebutuhan transportasi dan akomodasi dalam satu aplikasi? Itulah yang menjadi konsep utama MaaS (Mobility as a Service)—sebuah sistem yang mengintegrasikan transportasi umum, perhotelan, penerbangan, hingga sistem pembayaran dalam satu platform. Dengan MaaS, pengguna tidak perlu bergantung pada banyak aplikasi berbeda, sementara layanan dan pemerintah dapat lebih mudah mengelola dan memonitor sistem transportasi secara menyeluruh.
+
 Dalam tiga bulan terakhir, saya bersama tim Brave Teknologi mendapatkan tantangan besar untuk mengembangkan solusi MaaS (Mobility as a Service) berbasis blockchain. Proyek ini merupakan kolaborasi dengan salah satu universitas ternama di Prancis, yang memberikan kami teori dan dokumen teknis untuk diterjemahkan menjadi sistem yang berfungsi. Sebagai developer sekaligus pemimpin tim, saya bertugas memastikan semuanya berjalan sesuai rencana.
 Namun, proyek ini jauh dari kata mudah.
 
